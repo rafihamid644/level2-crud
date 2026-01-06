@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CRUD Level 1</title>
+    <title>CRUD Level 2</title>
     <style>
         body {
             font-family: Arial, sans-serif;
