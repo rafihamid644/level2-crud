@@ -1,8 +1,10 @@
+
+
 <?php include 'koneksi.php'; ?>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CRUD Level 2</title>
+    <title>CRUddddD Level 2</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -62,7 +64,7 @@
 
 <body>
 <div class="container">
-    <h2>CRUD LEVEL 1</h2>
+    <h2>CRUD LEVEL 2</h2>
 
     <form action="tambah.php" method="post">
         <input type="text" name="nama" placeholder="Nama" required>
